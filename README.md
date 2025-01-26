@@ -4,7 +4,8 @@
 
 ##Our Creaters:
 
-Chase, Timmy, Kevin, and Zainab
+Zainab, Chase, Timmy, Kevin.
+
 ## What are we doing?
 
 We are making a game for our advanced programming class. The game is called The Desolate Storm.
